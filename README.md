@@ -1,4 +1,4 @@
-# FuckingTheCat
+# FuckingTheCat 😺
 # 📢 Bienvenue dans le projet GitHub de **Fucking The Cat** ! 🐾
 
 **Fucking The Cat** est un projet de crypto-monnaie 100% française, créé dans le cadre d'une expérience personnelle. 🎉  
