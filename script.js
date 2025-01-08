@@ -63,3 +63,4 @@ function updatePrice() {
 
 setInterval(updatePrice, 3000);
 
+
